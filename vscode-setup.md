@@ -49,4 +49,4 @@ If you want your editor to work and look exactly the same way as mine does in th
   "less.validate": false,
   "editor.wordWrap": "on"
 }
-```
+``` 
